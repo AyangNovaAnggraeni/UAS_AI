@@ -81,7 +81,8 @@ We collaborated on building the dataset, training the model, writing code, and p
 ## 📝 Disclaimer
 
 This repository is created for **learning purposes only**.  
-It contains my personal coursework, practice exercises, and experiments from the Web Programming (PBW) class.
-I do not claim that this is the best way to structure or solve each problem — these files are meant to serve as **references only**, not as official guides.
+It contains my personal work for the Final Project in "Kecerdasan Buatan" class in Universitas Singaperbangsa Karawang.
+I do not claim that this is the best way to structure or solve the problem — these files are meant to serve as **references only**, not as official guides.
 Please feel free to learn from the code, but use your own judgment and consult other sources when applying it in real projects.
+
 ---
