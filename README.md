@@ -26,6 +26,7 @@ The system supports **fingerspelling** recognition for A–Z letters. Detected l
 - For the dataset :
   - Sanjaya, Samuel Ady (2024), “BISINDO Indonesian Sign Language: Alphabet Image Data”, Mendeley Data, V1, doi: 10.17632/ywnjpbcz8m.1
   - https://www.kaggle.com/datasets/achmadnoer/alfabet-bisindo
+- And the pdf file is a draft journal for further explanation
 
 
 ## 🚀 How to Run
