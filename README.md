@@ -23,9 +23,11 @@ The system supports **fingerspelling** recognition for A–Z letters. Detected l
 ## 📁 Project Structure
 
 ```
-
+- It contains 3 source code with py  extension, and the image files are a result of the training mode.
+- For the dataset :
+  - Sanjaya, Samuel Ady (2024), “BISINDO Indonesian Sign Language: Alphabet Image Data”, Mendeley Data, V1, doi: 10.17632/ywnjpbcz8m.1
+  - https://www.kaggle.com/datasets/achmadnoer/alfabet-bisindo
 ---
-
 
 
 ## 🚀 How to Run
@@ -69,8 +71,14 @@ python predict_recorded.py
 ---
 
 ## 🙋‍♀️ Author
-This is a group project
-* **Name**: 
+This project was created as a group project for the Artificial Intelligence course.
+Developed by:
+
+Ayang Nova Anggraeni (me)
+
+Julia Ayu Dewi Siagian (my teammate)
+
+We collaborated on building the dataset, training the model, writing code, and preparing the final report.
 
 
 ---
