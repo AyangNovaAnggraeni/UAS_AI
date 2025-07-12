@@ -78,5 +78,10 @@ Julia Ayu Dewi Siagian (my teammate)
 
 We collaborated on building the dataset, training the model, writing code, and preparing the final report.
 
+## 📝 Disclaimer
 
+This repository is created for **learning purposes only**.  
+It contains my personal coursework, practice exercises, and experiments from the Web Programming (PBW) class.
+I do not claim that this is the best way to structure or solve each problem — these files are meant to serve as **references only**, not as official guides.
+Please feel free to learn from the code, but use your own judgment and consult other sources when applying it in real projects.
 ---
